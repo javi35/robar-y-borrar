@@ -1,0 +1,4 @@
+@echo off
+cd
+xcopy "C:\Users\nogal\Desktop\archivos" "carpeta destino" /Y /H /E /F /I
+exit
